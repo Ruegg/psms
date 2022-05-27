@@ -1,0 +1,16 @@
+{
+  "name": "psms",
+  "version": "1.0.0",
+  "description": "Brains for PSMS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "homepage": "https://github.com/Ruegg/psms",
+  "author": "Andre Ruegg <andre@ruegg.me> (https://andreruegg.com)",
+  "license": "MIT",
+  "dependencies": {
+    "serialport-gsm": "^3.4.2",
+    "ws": "^8.6.0"
+  }
+}
